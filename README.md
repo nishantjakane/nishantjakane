@@ -20,3 +20,6 @@ Systems programming · Market microstructure · Machine Learning
 
 [🌐 Portfolio](https://nishantjakane.github.io/) · [💼 GitHub](https://github.com/nishantjakane)
 
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishantjakane)
