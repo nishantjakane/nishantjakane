@@ -18,4 +18,4 @@ C++ · Python
 **Currently learning:**
 Systems programming · Market microstructure · Machine Learning
 
-[🌐 Portfolio](https://nishantjakane.github.io/)
+[ Portfolio](https://nishantjakane.github.io/)
